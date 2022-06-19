@@ -1324,6 +1324,8 @@ int main(){
 
 [STL 方法含义索引](https://github.com/huihut/interview/tree/master/STL)
 
+[STL的理解和应用 ](https://www.zhihu.com/question/37786833)
+
 ### STL 容器
 
 容器 | 底层数据结构 | 时间复杂度 | 有无序 | 可不可重复 | 其他
@@ -1351,6 +1353,8 @@ int main(){
 ---|---|---|---
 [find](http://www.cplusplus.com/reference/algorithm/find/)|顺序查找|O(n)|可重复
 [sort](https://github.com/gcc-mirror/gcc/blob/master/libstdc++-v3/include/bits/stl_algo.h#L4808)|[内省排序](https://en.wikipedia.org/wiki/Introsort)|O(n*log<sub>2</sub>n)|可重复
+
+
 
 
 <a id="data-structure"></a>
