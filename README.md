@@ -1894,6 +1894,7 @@ B树/B+树 |O(log<sub>2</sub>n) |   |
 线程间的通信目的主要是用于线程同步，所以线程没有像进程通信中的用于数据交换的通信机制  
 
 > 进程之间的通信方式以及优缺点来源于：[进程线程面试题总结](http://blog.csdn.net/wujiafei_njgcxy/article/details/77098977)
+> 
 > 多线程的理解和 python的相关代码：[代码以及讲解](https://zhuanlan.zhihu.com/p/427537893)
 
 #### 进程之间私有和共享的资源
